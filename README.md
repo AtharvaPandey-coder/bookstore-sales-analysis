@@ -130,4 +130,42 @@ Calculates the sum of the total amounts across all orders.
 
 Finding: Total recorded revenue was 75,628.66.
 
+11. Calculate total quantity sold by genre
 
+SQL concepts: INNER JOIN, SUM(), GROUP BY
+
+Joins the orders and books tables to calculate the total quantity sold for each genre.
+
+Genre
+
+Total Quantity Sold
+
+Mystery
+
+504
+
+Science Fiction
+
+447
+
+Fantasy
+
+446
+
+Romance
+
+439
+
+Non-Fiction
+
+351
+
+Biography
+
+285
+
+Fiction
+
+225
+
+Key Finding: Mystery had the highest recorded quantity sold, with 504 units. Fiction had the lowest, with 225 units.
