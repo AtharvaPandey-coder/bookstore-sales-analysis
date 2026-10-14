@@ -114,4 +114,13 @@ Romance
 
 Science Fiction
 
+9. Find books with the lowest stock
+
+SQL concepts: ORDER BY
+
+Finding: The first five rows returned had zero stock, indicating that those titles were out of stock.
+
+Sorts books by stock in ascending order to identify titles with the lowest inventory.
+
+
 
