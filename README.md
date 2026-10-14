@@ -183,3 +183,14 @@ This query identifies the book that appeared in the highest number of order reco
 Result: Implemented encompassing conglomeration (Book ID: 31) appeared in 4 order records, the highest count returned by the query.
 Key Finding: This result measures how frequently the book was ordered, not the total number of copies sold.
 
+14. Find the Top 3 Most Expensive Fantasy Books
+SQL Concepts: WHERE, ORDER BY, DESC, LIMIT
+This query identifies the three most expensive books in the Fantasy genre by sorting them in descending order of price.
+Results:
+1. Stand-alone content-based hub — Price: 49.90
+2. Innovative 3rdgeneration database — Price: 49.23
+3. Optimized even-keeled analyzer — Price: 48.97
+Key Finding: Stand-alone content-based hub is the most expensive Fantasy book among the results, priced at 49.90.
+
+
+
