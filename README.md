@@ -78,5 +78,11 @@ Price: 49.98
 
 Stock: 88
 
+6. Find orders with a quantity greater than one
 
+SQL concepts: WHERE, COUNT()
+
+Identifies orders containing more than one unit.
+
+Finding: 438 order records had a quantity greater than one.
 
