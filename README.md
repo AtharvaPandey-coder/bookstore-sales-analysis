@@ -177,6 +177,9 @@ SQL concepts: AVG(), WHERE
 Calculates the average price of books belonging to the Fantasy genre.
 
 Finding: The average price was approximately 25.98 in the dataset's price units.
-
-
+13. Find the Most Frequently Ordered Book
+SQL Concepts: INNER JOIN, COUNT(), GROUP BY, ORDER BY, LIMIT
+This query identifies the book that appeared in the highest number of order records.
+Result: Implemented encompassing conglomeration (Book ID: 31) appeared in 4 order records, the highest count returned by the query.
+Key Finding: This result measures how frequently the book was ordered, not the total number of copies sold.
 
