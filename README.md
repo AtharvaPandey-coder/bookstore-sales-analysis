@@ -93,3 +93,25 @@ SQL concepts: WHERE, comparison operators
 Filters orders where the recorded total amount exceeds 20.
 
 Finding: 473 orders met this condition.
+
+8. List all distinct book genres
+
+SQL concepts: DISTINCT
+
+Identifies the unique genres available in the books table.
+
+Finding: Six distinct genres were identified:
+
+Biography
+
+Fantasy
+
+Non-Fiction
+
+Fiction
+
+Romance
+
+Science Fiction
+
+
