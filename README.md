@@ -221,3 +221,52 @@ Top 5 Customers by Total Spending:
 4. Julie Smith — 991.00
 5. Pamela Gordon — 986.30
 Key Finding: Kim Turner was the highest-spending customer in the results, with a total spending amount of 1398.90.
+
+Key Takeaways
+
+Inventory analysis: Total stock was 25,056 units, and the first five books in the ascending stock results had zero stock.
+
+Genre performance: Mystery led the reported genre-wise sales quantities, while Fiction had the lowest.
+
+Pricing analysis: The most expensive book overall was listed at 49.98, while the highest-priced Fantasy book in the top-three results was listed at 49.90.
+
+Order analysis: 438 orders had quantities greater than one, and 473 orders had total amounts exceeding 20.
+
+Author analysis: Patrick Contreras had the highest quantity sold among the reported top five authors.
+
+Customer analysis: Kim Turner had the highest recorded spending among the reported top five customers.
+
+SQL Skills Demonstrated
+
+Data filtering using WHERE
+
+Date filtering using BETWEEN
+
+Aggregations using SUM(), AVG(), and COUNT()
+
+Table joins using INNER JOIN
+
+Grouping using GROUP BY
+
+Duplicate removal using DISTINCT
+
+Sorting using ORDER BY
+
+Result limiting using LIMIT
+
+Repository Contents
+
+bookstore_sales_analysis.sql — contains the SQL queries used for the analysis.
+
+README.md — documents the project, analytical questions, findings, and business insights.
+
+Notes
+
+Findings are based on the query outputs provided during the analysis.
+
+The dataset's currency was not confirmed, so prices and spending amounts are shown without a currency symbol.
+
+Complete result lists were not recorded for every question.
+
+
+
