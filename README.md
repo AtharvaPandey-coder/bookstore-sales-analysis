@@ -68,6 +68,15 @@ SQL concepts: ORDER BY, DESC, LIMIT
 
 Identifies the highest-priced book in the dataset.
 
+Finding:
+
+Book: Proactive system-worthy orchestration
+
+Author: Robert Scott
+
+Price: 49.98
+
+Stock: 88
 
 
 
