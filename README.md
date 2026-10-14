@@ -192,5 +192,15 @@ Results:
 3. Optimized even-keeled analyzer — Price: 48.97
 Key Finding: Stand-alone content-based hub is the most expensive Fantasy book among the results, priced at 49.90.
 
+15. Find the Total Quantity of Books Sold by Each Author
+SQL Concepts: INNER JOIN, SUM(), GROUP BY
+This query calculates the total quantity of books sold by each author by joining the books and orders tables.
+Top 5 Authors by Quantity Sold:
+1. Patrick Contreras — 28 books
+2. Melissa Taylor — 27 books
+3. Thomas Trujillo — 24 books
+4. Emily James — 24 books
+5. Erica Parker — 23 books
+Key Finding: Patrick Contreras had the highest total quantity sold among the authors shown, with 28 books.
 
 
