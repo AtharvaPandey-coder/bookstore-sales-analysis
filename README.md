@@ -86,3 +86,10 @@ Identifies orders containing more than one unit.
 
 Finding: 438 order records had a quantity greater than one.
 
+7. Find orders with a total amount greater than 20
+
+SQL concepts: WHERE, comparison operators
+
+Filters orders where the recorded total amount exceeds 20.
+
+Finding: 473 orders met this condition.
