@@ -203,4 +203,21 @@ Top 5 Authors by Quantity Sold:
 5. Erica Parker — 23 books
 Key Finding: Patrick Contreras had the highest total quantity sold among the authors shown, with 28 books.
 
+16. Find cities associated with orders above 30
 
+SQL concepts: INNER JOIN, DISTINCT, WHERE
+
+Joins customers with orders and retrieves distinct cities associated with orders whose total amount exceeds 30.
+
+Purpose: Explore customer locations associated with higher-value individual orders.
+
+17. Find the Customers Who Spent the Most on Orders
+SQL Concepts: INNER JOIN, SUM(), GROUP BY, ORDER BY, DESC
+This query calculates each customer's total spending by adding the amounts of their orders, then sorts the results from highest to lowest.
+Top 5 Customers by Total Spending:
+1. Kim Turner — 1398.90
+2. Jonathon Strickland — 1080.95
+3. Carrie Perez — 1052.27
+4. Julie Smith — 991.00
+5. Pamela Gordon — 986.30
+Key Finding: Kim Turner was the highest-spending customer in the results, with a total spending amount of 1398.90.
