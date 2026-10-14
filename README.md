@@ -122,5 +122,12 @@ Finding: The first five rows returned had zero stock, indicating that those titl
 
 Sorts books by stock in ascending order to identify titles with the lowest inventory.
 
+10. Calculate total recorded revenue
+
+SQL concepts: SUM()
+
+Calculates the sum of the total amounts across all orders.
+
+Finding: Total recorded revenue was 75,628.66.
 
 
