@@ -169,3 +169,14 @@ Fiction
 225
 
 Key Finding: Mystery had the highest recorded quantity sold, with 504 units. Fiction had the lowest, with 225 units.
+
+12. Calculate the average price of Fantasy books
+
+SQL concepts: AVG(), WHERE
+
+Calculates the average price of books belonging to the Fantasy genre.
+
+Finding: The average price was approximately 25.98 in the dataset's price units.
+
+
+
